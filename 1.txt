@@ -1,3 +1,7 @@
 1 2 3 is a number
 
 True.
+
+a b c is a aplhabet
+
+True also
